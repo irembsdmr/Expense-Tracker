@@ -1,0 +1,10 @@
+a-10-food
+b-20-food
+c-30-transport
+d-2-transport
+e-3-tax
+f-5-tax
+g-4-tax
+s-5-transport
+-1-food
+-2-s
